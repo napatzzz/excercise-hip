@@ -26,7 +26,7 @@ function searchSongByArtist(artist) {
 
 }
 
-// 4. Delete By name
+// 3. Delete By name
 function deleteSongByName(name) {
 
 }
